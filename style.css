@@ -1,0 +1,15 @@
+body {
+  font-family: “Roboto”, sans-serif;
+}
+
+.navbar-nav .nav-item .nav-link {
+  color: white;
+}
+
+.navbar-collapse .navbar-text {
+  color: white;
+}
+
+.btn {
+  padding-top: 6px;
+}
